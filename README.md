@@ -3,8 +3,6 @@
 "The effectiveness of unconventional monetary policy of the Federal Reserve during the economic crisis. Analysis for the period of 2008-2016" - master thesis on Computer Science and Econometrics at the Warsaw University.
 </p>
 
-1444 overlaping samples             |  Hann 2D windows     |  Hann 2D windows22222
-:-------------------------:|:-------------------------:|:-------------------------:
 ![](/imgs/FEVDs.png)  |  ![](/imgs/IRFs.png) |  ![](/imgs/forcasts.png)
 
 <p align="justify">
