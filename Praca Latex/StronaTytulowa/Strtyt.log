@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdftex 2013.5.23)  24 MAY 2013 23:16
+entering extended mode
+**C:/Users/Mateusz/Desktop/Ekonometria*model/Strtyt.sty
+("C:/Users/Mateusz/Desktop/Ekonometria model/Strtyt.sty"
+! Undefined control sequence.
+l.1 \ProvidesPackage
+                    {strtyt}
+? 
+! Emergency stop.
+l.1 \ProvidesPackage
+                    {strtyt}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

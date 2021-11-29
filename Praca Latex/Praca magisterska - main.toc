@@ -1,0 +1,20 @@
+\select@language {polish}
+\contentsline {chapter}{Wst\IeC {\k e}p}{5}{chapter*.1}
+\contentsline {chapter}{1. Podstawy teoretyczne niekonwencjonalnej polityki monetarnej}{7}{chapter*.2}
+\contentsline {section}{1.1. Najwa\IeC {\.z}niejsze za\IeC {\l }o\IeC {\.z}enia niekonwencjonalnej polityki monetarnej}{8}{section*.3}
+\contentsline {section}{1.2. Podstawowe instrumenty niekonwencjonalnej polityki monetarnej}{9}{section*.4}
+\contentsline {subsection}{1.2.1. Instrumenty powoduj\IeC {\k a}ce zmian\IeC {\k e} warto\IeC {\'s}ci bilansu banku centralnego}{9}{section*.5}
+\contentsline {subsection}{1.2.2. Instrumenty niepowoduj\IeC {\k a}ce zmiany warto\IeC {\'s}ci bilansu banku centralnego}{13}{section*.6}
+\contentsline {section}{1.3. Kana\IeC {\l }y transmisji impuls\IeC {\'o}w niekonwencjonalnej polityki monetarnej}{15}{section*.7}
+\contentsline {chapter}{2. Przegl\IeC {\k a}d wybranych bada\IeC {\'n} z~zakresu niekonwencjonalnej polityki monetarnej}{21}{chapter*.8}
+\contentsline {chapter}{3. Skuteczno\IeC {\'s}\IeC {\'c} niekonwencjonalnej polityki monetarnej Rezerwy Federalnej}{32}{chapter*.10}
+\contentsline {section}{3.1. Skuteczno\IeC {\'s}\IeC {\'c} w kszta\IeC {\l }towaniu krzywej dochodowo\IeC {\'s}ci}{33}{section*.11}
+\contentsline {subsection}{3.1.1. Wyb\IeC {\'o}r najlepszego modelu krzywej dochodowo\IeC {\'s}ci}{33}{section*.12}
+\contentsline {subsection}{3.1.2. Reakcja krzywej dochodowo\IeC {\'s}ci na zmiany polityki monetarnej FED}{38}{section*.17}
+\contentsline {section}{3.2. Skuteczno\IeC {\'s}\IeC {\'c} w~oddzia\IeC {\l }ywaniu na wybrane sektory ameryka\IeC {\'n}skiej gospodarki}{50}{section*.28}
+\contentsline {subsection}{3.2.1. Opis zbioru danych i~specyfikacja modelu}{50}{section*.29}
+\contentsline {subsection}{3.2.2. Analiza wynik\IeC {\'o}w i~weryfikacja hipotez badawczych}{55}{section*.32}
+\contentsline {chapter}{Zako\IeC {\'n}czenie}{69}{chapter*.39}
+\contentsline {chapter}{Bibliografia}{71}{chapter*.40}
+\contentsline {chapter}{Zestawianie spis\IeC {\'o}w}{74}{chapter*.41}
+\contentsline {chapter}{Za\IeC {\l }\IeC {\k a}czniki}{77}{chapter*.42}

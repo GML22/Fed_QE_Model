@@ -1,0 +1,371 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (MiKTeX 2.9) (preloaded format=xelatex 2013.5.24)  9 JUN 2013 12:21
+entering extended mode
+**Zalaczniki2.tex
+("C:\Users\Mateusz\Desktop\Ekonometria model\Zalaczniki\Zalaczniki2.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+! Undefined control sequence.
+l.5 \chapter
+            *{Załączniki}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \chapter*
+             {Załączniki}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ł in font nullfont!
+Missing character: There is no ą in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--7
+[]
+ []
+
+! Undefined control sequence.
+l.8 \huge
+         {\textbf{Spis załączników}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \huge{\textbf{Spis załączników}
+                                      }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Requested font "cmbx10" at 10.0pt
+ -> cmbx10
+Missing character: There is no ł in font cmbx10!
+Missing character: There is no ą in font cmbx10!
+Missing character: There is no ó in font cmbx10!
+
+Overfull \hbox (40.50821pt too wide) in paragraph at lines 8--10
+ []\OT1/cmr/bx/n/10 Spis 
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 8--10
+ \OT1/cmr/bx/n/10 za- 
+ []
+
+
+Overfull \hbox (34.3401pt too wide) in paragraph at lines 8--10
+ \OT1/cmr/bx/n/10 cznikw 
+ []
+
+! Undefined control sequence.
+<argument> \ding 
+                 {228}
+l.11 ^^I\item[\ding{228}]
+                         \textbf{1. Oszacowania parametrów modeli LMP, Logi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ó in font cmbx10!
+
+Overfull \hbox (8.9444pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 1.
+ []
+
+
+Overfull \hbox (17.00822pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Os-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 za-
+ []
+
+
+Overfull \hbox (22.68044pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 cow-
+ []
+
+
+Overfull \hbox (9.42354pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 a-
+ []
+
+
+Overfull \hbox (15.17351pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 nia
+ []
+
+
+Overfull \hbox (54.67331pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 parametrw
+ []
+
+
+Overfull \hbox (25.87486pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 mod-
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 eli
+ []
+
+
+Overfull \hbox (27.9304pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 LMP,
+ []
+
+
+Overfull \hbox (26.08319pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Logit
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 i
+ []
+
+
+Overfull \hbox (22.18045pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.05548pt too wide) in paragraph at lines 11--12
+\OT1/cmr/bx/n/10 bit 
+ []
+
+! Undefined control sequence.
+<argument> \ding 
+                 {228}
+l.12 ^^I\item[\ding{228}]
+                         \textbf{2. Efekty cząstkowe modeli LMP, Logit i Pr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no ą in font cmbx10!
+
+Overfull \hbox (8.9444pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 2.
+ []
+
+
+Overfull \hbox (32.63177pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 Efekty
+ []
+
+
+Overfull \hbox (43.66782pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 czstkowe
+ []
+
+
+Overfull \hbox (25.87486pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 mod-
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 eli
+ []
+
+
+Overfull \hbox (27.9304pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 LMP,
+ []
+
+
+Overfull \hbox (26.08319pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 Logit
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 i
+ []
+
+
+Overfull \hbox (22.18045pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (14.05548pt too wide) in paragraph at lines 12--13
+\OT1/cmr/bx/n/10 bit 
+ []
+
+
+! LaTeX Error: Environment landscape undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \begin{landscape}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.17 \phantomsection
+                    ^^I^^I^^I^^I%do hiperlinków dla sekcji w spisie treści
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 \section
+             *{Załącznik 1. Oszacowania parametrów modeli LMP, Logit i Pr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \section*
+              {Załącznik 1. Oszacowania parametrów modeli LMP, Logit i Pr...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ł in font nullfont!
+Missing character: There is no ą in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 18--20
+[]
+ []
+
+
+! LaTeX Error: File `Tabela//tabelaKolej2.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.21 \input{Tabela//tabelaKolej2.tex}
+                                     ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 429035
+ 195 string characters out of 3169412
+ 48509 words of memory out of 3000000
+ 3361 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 912 hyphenation exceptions out of 8191
+ 13i,1n,10p,113b,122s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

@@ -1,0 +1,75 @@
+%*********************PRACA MAGISTERSKA*******************************
+
+\documentclass[12pt, a4paper, oneside, titlepage, final]{book}
+
+%=====================PREAMBUŁA===============================
+
+\input{Preambula//preambula.sty}
+
+%=============================================================
+
+\begin{document}
+%=====================STRONA TYTUŁOWA=========================
+
+\uniwersytet{Uniwersytet Warszawski}
+\wydzial{Wydział Nauk Ekonomicznych}
+\title{Skuteczność niekonwencjonalnej polityki monetarnej Rezerwy Federalnej w~czasie kryzysu gospodarczego}
+\podtytul{Analiza dla lat 2008-2016} 
+\author{Mateusz Gomulski}
+\indeks{293646}
+\kierunek{Informatyka i Ekonometria}
+\promotor{prof. UW Ryszarda Kokoszczyńskiego}
+\katedra{z Zakładu Finansów Ilościowych WNE UW}
+\date{Warszawa, styczeń 2017}
+\maketitle %tworzy stronę tytułową
+
+%=============================================================
+
+%=====================OŚWIADCZENIE============================
+
+\input{Oswiadczenie//Oswiadczenie.tex}
+
+%=============================================================
+
+%=====================STRESZCZENIE============================
+
+\input{Streszczenie//Streszczenie.tex}
+
+%=============================================================
+
+%======================SPIS TREŚCI============================
+\newpage
+\tableofcontents
+%=============================================================
+
+%=========================Główna część========================
+
+% Wstęp
+\input{Wstep//Wstep.tex}
+% Podstawy Teoretyczne Modelu
+\input{Rozdzial1//Rozdzial1.tex}
+% Analiza literatury
+\input{Rozdzial2//Rozdzial2.tex}
+% Analiza empiryczna
+\input{Rozdzial3//Rozdzial3.tex}
+% Zakończenie
+\input{Zakonczenie//Zakonczenie.tex}
+
+%============================================================
+
+%===========================BIBLIOGRAFIA=====================
+
+\input{Bibliografia//bibliografia.tex}
+
+%===========================Spis Tabel i Rysunków============
+
+\input{SpisTabel//SpisTabel.tex}
+
+%=========================ZAŁĄCZNIKI=========================
+
+\input{Zalaczniki//Zalaczniki2.tex}
+
+%============================================================
+\end{document}
+
+%============================================================

@@ -1,0 +1,25 @@
+{com}. logit oscar _Igatunek_2 _Ikraj_prod_1 _Igatunek_6 nominacje newzlote_globy newbafta milosc
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-364.12622}  
+Iteration 1:{space 3}log likelihood = {res:-210.91817}  
+Iteration 2:{space 3}log likelihood = {res:-209.64944}  
+Iteration 3:{space 3}log likelihood = {res:-209.62875}  
+Iteration 4:{space 3}log likelihood = {res:-209.62874}  
+{res}
+{txt}Logistic regression{col 51}Number of obs{col 67}= {res}       537
+{txt}{col 51}LR chi2({res}7{txt}){col 67}= {res}    308.99
+{txt}{col 51}Prob > chi2{col 67}= {res}    0.0000
+{txt}Log likelihood = {res}-209.62874{txt}{col 51}Pseudo R2{col 67}= {res}    0.4243
+
+{txt}{hline 13}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}       oscar{col 14}{c |}      Coef.{col 26}   Std. Err.{col 38}      z{col 46}   P>|z|{col 54}     [95% Con{col 67}f. Interval]
+{hline 13}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 1}_Igatunek_2 {c |}{col 14}{res}{space 2} .9257395{col 26}{space 2} .4202148{col 37}{space 1}    2.20{col 46}{space 3}0.028{col 54}{space 4} .1021336{col 67}{space 3} 1.749345
+{txt}_Ikraj_pro~1 {c |}{col 14}{res}{space 2} -.582893{col 26}{space 2} .2602381{col 37}{space 1}   -2.24{col 46}{space 3}0.025{col 54}{space 4} -1.09295{col 67}{space 3}-.0728358
+{txt}{space 1}_Igatunek_6 {c |}{col 14}{res}{space 2} 1.801817{col 26}{space 2} .6358639{col 37}{space 1}    2.83{col 46}{space 3}0.005{col 54}{space 4} .5555462{col 67}{space 3} 3.048087
+{txt}{space 3}nominacje {c |}{col 14}{res}{space 2} .5542221{col 26}{space 2} .0581803{col 37}{space 1}    9.53{col 46}{space 3}0.000{col 54}{space 4} .4401908{col 67}{space 3} .6682533
+{txt}newzlote_g~y {c |}{col 14}{res}{space 2} 1.893919{col 26}{space 2} .3227008{col 37}{space 1}    5.87{col 46}{space 3}0.000{col 54}{space 4} 1.261437{col 67}{space 3} 2.526401
+{txt}{space 4}newbafta {c |}{col 14}{res}{space 2} 1.482537{col 26}{space 2} .3209424{col 37}{space 1}    4.62{col 46}{space 3}0.000{col 54}{space 4}  .853502{col 67}{space 3} 2.111573
+{txt}{space 6}milosc {c |}{col 14}{res}{space 2}  1.03761{col 26}{space 2} .4142003{col 37}{space 1}    2.51{col 46}{space 3}0.012{col 54}{space 4} .2257923{col 67}{space 3} 1.849428
+{txt}{space 7}_cons {c |}{col 14}{res}{space 2} -2.99051{col 26}{space 2} .2852965{col 37}{space 1}  -10.48{col 46}{space 3}0.000{col 54}{space 4}-3.549681{col 67}{space 3}-2.431339
+{txt}{hline 13}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}

@@ -1,0 +1,82 @@
+%**************************************************************************
+%**************************************************************************
+%**************************PREAMBUŁA***************************************
+%**************************************************************************
+%**************************************************************************
+
+%***************************PAKIETY****************************************
+\usepackage[digitsep]{siunitx}
+\usepackage{tocloft}
+\usepackage[table,dvipsnames]{xcolor}
+\usepackage{StronaTytulowa//strtyt} %mój pakiet ze stroną tytulową
+\usepackage{geometry}				%pakiet potrzebny do marginesów
+\usepackage{underscore}			%pakiet do właściwej obsługi 
+\usepackage{pdflscape}				% horyzontalny układ strony
+\usepackage{array}			% pakiet potrzebny do tabel
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage[polish]{babel}			%pakiet językowy
+\usepackage[pdfencoding=auto]{hyperref}               % pakiet do hiperlinków, pdfencoding potrzebne, że dobrze wyświetlał znaki w zakładkach pdfa
+\usepackage[all]{hypcap} 			%pakiet poprawiający działanie hiperlinków
+\usepackage{titlesec}				% pakiet do  hiperlinków sekcji
+\usepackage{pifont}
+\usepackage{moresize}				% dodaje dwie nowe wielkości czcionki ssmall i HUGE
+\usepackage{stata//stata}			%pakiet potrzeny do formatu staty
+\usepackage{underscore}			%pakiet do właściwej obsługi 
+\usepackage{dcolumn}				% pakiet do tabeli ze staty
+\usepackage{changepage}
+\usepackage{booktabs,tabularx}		% pakiet do tabeli ze staty
+\usepackage{graphicx}			% pakiet do grafik
+\usepackage{epstopdf}
+\usepackage{caption}			% tytuły nad obrazkami
+\usepackage{subcaption}
+\captionsetup[table]{name=Tabela} %zmiana nazwy z Tabel na Tabela
+\captionsetup[figure]{name=Wykres} %zmiana nazwy z Figure na Wykres
+\usepackage{floatrow}			% tytuły nad obrazkami
+\usepackage{amsmath}			% równania wieloliniowe
+\usepackage[OT4]{polski}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}			% Kind of Times New Roman 
+\usepackage{cite}				% For citations
+\usepackage{url}				% for breaking url
+\usepackage{indentfirst}		% pakiet do wcięć na początku rozdziału
+\usepackage[hang]{footmisc} 	% pakiet do obsługi layout footnota 1/2
+\usepackage{lipsum}				% pakiet do obsługi layout footnota 2/2
+\usepackage{amsfonts} % for the \checkmark command 
+\usepackage[doublespacing]{setspace} %interlinia w stópce
+\usepackage{longtable}		% tabele na kilka stron
+\usepackage{multirow}
+\usepackage{blindtext}
+\usepackage{titlesec}
+\usepackage[printonlyused]{acronym}
+%**************************************************************************
+
+%*************************USTAWIENIA GLOBALNE*************************
+\setcounter{secnumdepth}{0}			%ustawienia hiperlinków
+\hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black, urlcolor=black} %kolor hiperlinków
+\linespread{1.5} %1.5 odstęp pomiędzy wierszami
+\newgeometry{tmargin=2.5cm, bmargin=2.5cm, lmargin=2.5cm, rmargin=2.5cm}
+\setlength\footnotemargin{10pt} % ustawianie marginu dla footnota
+\pagestyle{plain} %brak nagłówków w całym dokumencie
+\floatsetup[figure]{capposition=top}% opisy obrazków na górze rysunku
+\floatsetup[table]{capposition=top} % opisy tabel na górze
+\captionsetup{labelfont=bf}
+%**************************************************************************
+\graphicspath{{./Rysunki/}} % ustawia sciezke do rysunków 
+\setlength\parindent{1cm} % ustawia rozmiar wcięcia
+\setlength\heavyrulewidth{0.05cm} %szerokość toprule w tabelach
+\urlstyle{same} % ustawiania tego samego fontu w url co w pliku
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi} % ustawianie gwiazdek istotności na wydrukach ze staty
+\sisetup{output-decimal-marker = {,}}
+\addto\captionspolish{\renewcommand{\listfigurename}{Spis wykresów}}
+\addto\captionspolish{\renewcommand{\listtablename}{Spis tabel}}
+
+\InputIfFileExists{\jobname.acr}{\def\haveACRO{0}}   
+\immediate\openout15=\jobname.acr\relax
+\let\oldac=\ac  
+\def\ac{%
+   \immediate\write15{\string\gdef\string\haveACRO{1}}\oldac} %
+\AtEndDocument{\closeout15}
+\renewcommand{\cftlottitlefont}{\Large\bfseries}
+\renewcommand{\cftloftitlefont}{\Large\bfseries}

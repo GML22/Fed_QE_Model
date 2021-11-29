@@ -1,0 +1,77 @@
+\ProvidesPackage{strtyt}
+
+%\makeatletter
+
+\def\podtytul#1{\def\@podtytul{#1}}
+\def\promotor#1{\def\@promotor{#1}}
+\def\indeks#1{\def\@indeks{#1}}
+\def\kierunek#1{\def\@kierunek{#1}}
+\def\uniwersytet#1{\def\@uniwersytet{#1}}
+\def\wydzial#1{\def\@wydzial{#1}}
+\def\katedra#1{\def\@katedra{#1}}
+
+\renewcommand{\maketitle} %zmiana komendy maketitle
+{
+\newpage
+\thispagestyle{empty}
+
+%uczelnia,wydział
+\begin{center}\Large{
+
+	\@uniwersytet \\
+	\vspace{-0.25cm}      %długość odstępu
+	\@wydzial
+	}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+
+	\large {\@author} \\
+	\vspace{-0.25cm}
+	\normalsize{Nr albumu: \@indeks} 
+
+\end{center}
+
+\vspace{1cm}
+
+%tytuł
+\begin{center}
+
+	\Large{\textbf{\@title}} \\
+	
+\vspace{0.4cm}
+	
+	\large{\textbf{\@podtytul}}
+
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+
+\normalsize{Praca magisterska \\ na kierunku: \@kierunek}
+
+\end{center}
+
+\vspace{3cm}
+
+% osoba promotora
+\begin{flushright}
+	
+	Praca wykonana pod kierunkiem dr. hab.,\\
+	\@promotor \\
+	\@katedra
+
+\end{flushright}
+
+\vfill
+
+\begin{center}
+
+	\@date	
+
+\end{center}
+
+}
