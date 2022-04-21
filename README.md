@@ -1,4 +1,4 @@
-# QE_Master_Thesis
+# Fed_QE_Model
 
 *[This project was completed in April 2017]*
 
