@@ -1,4 +1,4 @@
-# WNE_Master_Thesis
+# QE_Master_Thesis
 
 *[This project was completed in April 2017]*
 
